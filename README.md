@@ -1,5 +1,5 @@
 # Agon-Light-2-Serial-Voice-Recognition
-DF Robot - Gravity Offline Voice Recognition Sensor (3.3vdc useage) on Agon Light 2
+DF Robot - Gravity Offline Voice Recognition Sensor (3.3vdc usage) on Agon Light 2
 
 3.3vdc Voice Recognition communication (serial Rx/Tx) with Agon Light 2
 Using Richard Turnnidge serial UART assembly/ basic code with a mini thermal receipt printer and 3.3vdc LCD, I found from DF ROBOT a Gravity Offline Voice Recognition Sensor which is powered by 3.3vdc from the Agon Light 2 (Also works with 5 VDC with libraries/ drivers for the Arduino and Raspberry Pi.).
